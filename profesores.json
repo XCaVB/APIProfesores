@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "name": "Oscar Maldonado",
+        "rut": "12822902-7",
+        "carrera": "Arquitectura",
+        "departamento": "Departamento de Ciencias Fisicas",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "No"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Rafaela Marin",
+        "rut": "16693394-3",
+        "carrera": "Diseño de Juegos Digitales",
+        "departamento": "Departamento de Matematicas",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "No"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Adrian Barrera",
+        "rut": "15189655-3",
+        "carrera": "Derecho",
+        "departamento": "Departamento de Quimicas",
+        "jornada": {
+            "diurna": "No",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Emilia Egea",
+        "rut": "12833519-6",
+        "carrera": "Ingenieria Civil Informatica",
+        "departamento": "Departamento de Morfologia",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Ali Riera",
+        "rut": "19326200-7",
+        "carrera": "Contador Auditor",
+        "departamento": "Departamento de Humanidades",
+        "jornada": {
+            "diurna": "No",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Hicham Jover",
+        "rut": "16869497-0",
+        "carrera": "Arquitectura",
+        "departamento": "Departamento de Ecologia y Biodiversidad",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "No"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Rogelio Vico",
+        "rut": "15146156-5",
+        "carrera": "Fonoaudiologia",
+        "departamento": "Departamento de Ciencias Fisicas",
+        "jornada": {
+            "diurna": "No",
+            "vespertina": "No"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Enriqueta Rodrigues",
+        "rut": "13972468-2",
+        "carrera": "Geologia",
+        "departamento": "Departamento de Ciencias Biologicas",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Marcial Zurita",
+        "rut": "18625787-1",
+        "carrera": "Entrenador Deportivo",
+        "departamento": "Departamento de Ciencias Quimicas",
+        "jornada": {
+            "diurna": "No",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Jose Antonio Gonzales",
+        "rut": "14266597-2",
+        "carrera": "Diseño de juegos digitales",
+        "departamento": "Departamento de Matematicas",
+        "jornada": {
+            "diurna": "No",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Dolors Ceballos",
+        "rut": "11702549-7",
+        "carrera": "Educacion Parvularia",
+        "departamento": "Departamento de Morfologia",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Candida Borrego",
+        "rut": "12837394-2",
+        "carrera": "Enfermeria",
+        "departamento": "Departamento de Ciencias de la Ingenieria",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "No"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Cipriano Otero",
+        "rut": "15306028-2",
+        "carrera": "Enfermeria",
+        "departamento": "Departamento de Humanidades",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Carlota Pons",
+        "rut": "15851966-6",
+        "carrera": "Diseño Grafico",
+        "departamento": "Departamento de Ecologia y Biodiversidad",
+        "jornada": {
+            "diurna": "No",
+            "vespertina": "Si"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Antonia Nicolas",
+        "rut": "16795677-7",
+        "carrera": "Ingenieria Comercial",
+        "departamento": "Departamento de Matematicas",
+        "jornada": {
+            "diurna": "Si",
+            "vespertina": "No"
+        }
+    }
+]
